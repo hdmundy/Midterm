@@ -20,6 +20,5 @@ options(scipen = 999)
 
 # use accuracy() to compute common accuracy measures.
 # recall that accuracy is computed against the validation dataset
-accuracy(car.lm.pred, valid.df$Price)
 
 
